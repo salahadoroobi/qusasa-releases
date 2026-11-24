@@ -1,6 +1,6 @@
 #define AppName "قصاصة"
-#define AppVersion "1.28.0"
-#define DisplayVersion "1.28"
+#define AppVersion "1.29.0"
+#define DisplayVersion "1.29"
 #define Publisher "صلاح الدين الدروبي"
 #define AppExe "Qusasa.exe"
 #define RunKey "Software\Microsoft\Windows\CurrentVersion\Run"
@@ -27,7 +27,7 @@ VersionInfoDescription=مثبّت قصاصة
 VersionInfoProductName=قصاصة | Qusasa
 VersionInfoVersion={#AppVersion}
 OutputDir=bin\Installer
-OutputBaseFilename=Qusasa-1.28-Engine
+OutputBaseFilename=Qusasa-1.29-Engine
 WizardStyle=modern dark windows11 hidebevels
 WizardSizePercent=142,137
 WizardBackColor=#18151F
