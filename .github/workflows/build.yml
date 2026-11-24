@@ -35,13 +35,13 @@ jobs:
 
       - name: Build Application
         run: |
-          dotnet build Qusasa.csproj -c Release --nologo -p:UpdateFeedUrl= -p:OcrRelayUrl=
+          dotnet build Qusasa.csproj -c Release --nologo
 
       - name: Build Installer
         run: |
-           = \"Qusasa.iss\"
-           = \"C:\Program Files (x86)\Inno Setup 6\ISCC.exe\"
-          &  /Q 
+          $iss = "Qusasa.iss"
+          $iscc = "C:\Program Files (x86)\Inno Setup 6\ISCC.exe"
+          & $iscc /Q $iss
 
       - name: Upload Installer Artifact
         uses: actions/upload-artifact@v4
