@@ -1,0 +1,17 @@
+# Build outputs
+bin/
+obj/
+bin/Installer/
+
+# IDE
+.vs/
+*.user
+*.suo
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Secrets
+*.pfx
+*.snk

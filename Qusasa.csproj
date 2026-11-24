@@ -1,0 +1,52 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <ApplicationIcon>Qusasa.ico</ApplicationIcon>
+    <ApplicationManifest>Qusasa.manifest</ApplicationManifest>
+    <AssemblyName>Qusasa</AssemblyName>
+    <Product>قصاصة | Qusasa</Product>
+    <Company>صلاح الدين الدروبي</Company>
+    <Authors>صلاح الدين الدروبي</Authors>
+    <Description>قصاصة، مدير حافظة النصوص والصور لويندوز. تطوير صلاح الدين الدروبي.</Description>
+    <Copyright>© 2026 صلاح الدين الدروبي. جميع الحقوق محفوظة.</Copyright>
+    <Version>1.29.0</Version>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(SetupFrontend)' == 'true'">
+    <DefineConstants>$(DefineConstants);SETUP_FRONTEND</DefineConstants>
+    <AssemblyName>Qusasa.Setup</AssemblyName>
+    <GenerateAssemblyInfo>true</GenerateAssemblyInfo>
+    <NoWarn>$(NoWarn);CS0162</NoWarn>
+  </PropertyGroup>
+  <ItemGroup Condition="'$(SetupFrontend)' == 'true'">
+    <Resource Include="$(SetupPayload)" Link="InstallerPayload.exe" />
+  </ItemGroup>
+  <ItemGroup Condition="'$(OcrRelayUrl)' != ''">
+    <AssemblyMetadata Include="OcrRelayUrl" Value="$(OcrRelayUrl)" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="ocr\**\*" CopyToOutputDirectory="PreserveNewest" />
+    <None Update="tessdata\*" CopyToOutputDirectory="PreserveNewest" />
+    <Resource Include="Qusasa.ico" />
+    <Resource Include="AppMark.png" />
+    <Resource Include="SetupFeature.bmp" />
+    <Resource Include="release-notes.json" />
+    <Resource Include="Translations.tsv" />
+    <Resource Include="Spanish.tsv" />
+    <Resource Include="UpdateTrust.xml" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="UIAutomationClient" />
+    <Reference Include="UIAutomationTypes" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Runtime.Serialization" />
+  </ItemGroup>
+  <ItemGroup Condition="'$(UpdateFeedUrl)' != ''">
+    <AssemblyMetadata Include="UpdateFeedUrl" Value="$(UpdateFeedUrl)" />
+  </ItemGroup>
+</Project>
+

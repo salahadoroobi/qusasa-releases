@@ -1,0 +1,12 @@
+Local scanner components
+
+Tesseract OCR and Leptonica Windows native libraries
+Build origin: https://github.com/charlesw/tesseract/tree/b5329d5be92fa670031d94c3875f879651a01f55/src/Tesseract
+Upstream: https://github.com/tesseract-ocr/tesseract and https://github.com/DanBloomberg/leptonica
+See Tesseract-License.txt, Leptonica-License.txt and the bundled codec license notices.
+
+Arabic and English language data
+Origin: https://github.com/tesseract-ocr/tessdata_fast/tree/4.1.0
+License: Apache-2.0. See ../tessdata/LICENSE.
+
+Microsoft Visual C++ Redistributable DLLs from the Visual Studio 2022 VC143 CRT redist directory.

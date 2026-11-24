@@ -1,0 +1,262 @@
+UiIncludeDiagnostics	診断情報を添付	附上诊断信息	Inclure les données de diagnostic
+UiReviewDiagnostics	診断情報を確認	查看诊断信息	Vérifier les données de diagnostic
+UiDescribeCrash	Qusasa が予期せず終了しました。発生時の操作を記入してください。	Qusasa 意外退出。请描述发生故障时的操作。	Qusasa s’est arrêté. Décrivez ce que vous faisiez au moment du problème.
+UiCrashReport	クラッシュ報告	崩溃报告	Rapport de plantage
+UiCrashAgain	Qusasa が予期せず終了しました。再起動すると報告を確認できます。	Qusasa 意外退出。重新打开即可查看并发送报告。	Qusasa s’est arrêté. Rouvrez-le pour vérifier et envoyer le rapport.
+UiGitHubPaste	報告をコピーしました。GitHub で開発者へのメッセージに貼り付けてください。	报告已复制。请粘贴到发给开发者的 GitHub 消息中。	Rapport copié. Collez-le dans un message au développeur sur GitHub.
+UiClose	閉じる	关闭	Fermer
+UiImage	画像	图片	Image
+UiLink	リンク	链接	Lien
+UiText	テキスト	文本	Texte
+UiImageLabel	画像 	图片 	Image 
+UiQusasaNotification	クサーサの通知	库萨萨通知	Notification Qusasa
+UiDismissNotification	通知を閉じる	关闭通知	Fermer la notification
+UiCopiedImageThumbnail	コピー画像のプレビュー	已复制图片的预览	Aperçu de l’image copiée
+UiOpenClip	クリップを開く	打开剪贴条目	Ouvrir l’élément
+UiMinimize	最小化	最小化	Réduire
+UiMaximizeOrRestore	最大化または元に戻す	最大化或还原	Agrandir ou restaurer
+UiCloseWindow	ウィンドウを閉じる	关闭窗口	Fermer la fenêtre
+UiClipboardHistory	クリップボード履歴	剪贴板历史	Historique du presse-papiers
+UiSearchTheTextAndImagesYouCopied	コピーしたテキストや画像を検索して、すぐに再利用できます。	搜索已复制的文本和图片，一键重新使用。	Retrouvez vos textes et images copiés en un clic.
+UiToggleClipboardMonitoring	クリップボード監視を切り替え	切换剪贴板监控	Activer ou suspendre la surveillance
+UiMonitoringOn	監視中	监控已开启	Surveillance active
+UiSettings	設定	设置	Paramètres
+UiNewClip	新しいクリップ	新建剪贴条目	Nouvel élément
+UiNewClipCtrlN	新しいクリップ · Ctrl+N	新建剪贴条目 · Ctrl+N	Nouvel élément · Ctrl+N
+UiSearchClips	クリップを検索	搜索剪贴条目	Rechercher
+UiSearchClipsLabel	クリップを検索…	搜索剪贴条目…	Rechercher…
+UiAll	すべて	全部	Tout
+UiPinned	ピン留め	已固定	Épinglés
+UiTextLabel	テキスト	文本	Textes
+UiLinks	リンク	链接	Liens
+UiImages	画像	图片	Images
+UiClipList	クリップ一覧	剪贴条目列表	Liste des éléments
+UiPinnedLabel	ピン留め済み	已固定	Épinglé
+UiYourHistoryIsEmpty	履歴は空です	暂无历史记录	Votre historique est vide
+UiCopyTextFromAnyAppToSee	アプリでコピーしたテキストがここに表示されます。	从任意应用复制文本后将在此处显示。	Copiez un texte pour le voir ici.
+UiClipPreview	クリップのプレビュー	剪贴条目预览	Aperçu
+UiFullText	全文	完整文本	Texte intégral
+UiPinClip	クリップをピン留め	固定条目	Épingler
+UiEdit	編集	编辑	Modifier
+UiDelete	削除	删除	Supprimer
+UiClipContent	クリップの内容	剪贴条目内容	Contenu
+UiImagePreview	画像プレビュー	图片预览	Aperçu de l’image
+UiUnableToDisplayImage	画像を表示できません。	无法显示图片。	Impossible d’afficher l’image.
+UiSelectAClipToPreview	プレビューするクリップを選択	请选择要预览的条目	Sélectionnez un élément à afficher
+UiCancel	キャンセル	取消	Annuler
+UiSaveClip	クリップを保存	保存条目	Enregistrer
+UiCopyToClipboardCtrlEnter	コピー · Ctrl+Enter	复制 · Ctrl+Enter	Copier · Ctrl+Entrée
+UiCopyToClipboard	クリップボードにコピー	复制到剪贴板	Copier
+UiHistoryIsEncryptedAndStoredLocally	履歴は端末で暗号化して保存されます	历史记录已加密并保存在本机	Historique chiffré et stocké localement
+UiOpenQusasa	クサーサを開く	打开库萨萨	Ouvrir Qusasa
+UiCloseSettings	設定を閉じる	关闭设置	Fermer les paramètres
+UiAppearance	外観	外观	Apparence
+UiTheme	テーマ	主题	Thème
+UiAutomatic	自動	自动	Automatique
+UiDark	ダーク	深色	Sombre
+UiLight	ライト	浅色	Clair
+UiClipFont	クリップのフォント	条目字体	Police du contenu
+UiImportFont	フォントを読み込む…	导入字体…	Importer une police…
+UiClipTextSize	クリップの文字サイズ	条目字号	Taille du contenu
+UiSmall	小	小	Petite
+UiMedium	中	中	Moyenne
+UiLarge	大	大	Grande
+UiHeadingSize	見出しのサイズ	标题字号	Taille des titres
+UiLanguage	言語	语言	Langue
+UiNotifications	通知	通知	Notifications
+UiDesktopNotifications	デスクトップ通知	桌面通知	Notifications sur le bureau
+UiShowClipContentInNotifications	通知にプレビューを表示	在通知中显示内容预览	Afficher un aperçu dans les notifications
+UiPlayASoundWhenCopying	コピー時に音を鳴らす	复制时播放声音	Jouer un son lors de la copie
+UiSystem	システム	系统	Système
+UiKeepRecordingWhenTheWindowCloses	ウィンドウを閉じても履歴を記録	关闭窗口后继续记录	Continuer la capture en arrière-plan
+UiStartWithWindows	Windows と同時に起動	随 Windows 启动	Démarrer avec Windows
+UiExperimentalFeatures	試験機能	实验性功能	Fonctions expérimentales
+UiPaths	パス	路径	Chemins
+UiFilePath	パス	路径	Chemin
+UiNoPaths	パスがありません	没有路径	Aucun chemin
+UiPathsEmpty	コピーしたファイルやフォルダーのパスがここに表示されます。	已复制的文件和文件夹路径会显示在此处。	Les chemins copiés apparaissent ici.
+UiIris	深い紫	墨紫	Violet encre
+UiSand	ウォームサンド	暖沙色	Sable chaud
+UiCaptureHelp	ウィンドウを選択するか、ドラッグして範囲をキャプチャし、注釈を追加できます。	选择窗口或拖动选区以截图并添加标注。	Sélectionnez une fenêtre ou tracez une zone pour la capturer et l’annoter.
+UiScannerHelp	自動またはクラウドモードでは選択した画像をオンラインサービスに送信する場合があります。	自动或云端模式可能将所选图片发送到在线服务。	Le mode automatique ou cloud peut transmettre la zone sélectionnée au service en ligne.
+UiScannerHotkeyBusy	文字認識のショートカットは別のアプリで使用中です。	识别快捷键已被其他应用占用。	Le raccourci de reconnaissance est déjà utilisé.
+UiScreenScanFailed	選択した範囲を読み取れませんでした。	无法识别所选区域。	Impossible d’analyser la zone sélectionnée.
+UiScreenCapture	画面キャプチャ	屏幕截图	Capture d’écran
+UiHistoryAndBackups	履歴とバックアップ	历史与备份	Historique et sauvegardes
+UiImportAJsonArchiveOrATxt	.qusasa は現在の Windows アカウント用に暗号化されます。以前の JSON と TXT も読み込めます。	.qusasa 文件针对当前 Windows 帐户加密，仍可导入旧版 JSON 和 TXT。	Les fichiers .qusasa sont chiffrés pour ce compte Windows. Les anciens fichiers JSON et TXT restent importables.
+UiImport	インポート…	导入…	Importer…
+UiExport	エクスポート…	导出…	Exporter…
+UiClearUnpinned	ピン留め以外を削除	清除未固定条目	Effacer les éléments non épinglés
+UiAboutQusasa	クサーサについて	关于库萨萨	À propos de Qusasa
+UiSeeWhatSNewInThisRelease	このバージョンの新機能	查看此版本的新功能	Voir les nouveautés
+UiDeveloper	開発者	开发者	Développeur
+UiContact	お問い合わせ	联系	Contact
+UiWhatsapp	WhatsApp	WhatsApp	WhatsApp
+UiTelegram	Telegram	Telegram	Telegram
+UiEmail	メール	电子邮件	E-mail
+UiSendASuggestion	提案を送る	发送建议	Envoyer une suggestion
+UiBack	戻る	返回	Retour
+Ui2026AllRightsReserved	© 2026 · 無断転載を禁じます。	© 2026 · 保留所有权利。	© 2026 · Tous droits réservés.
+UiWhatSNew	新機能	新功能	Nouveautés
+UiBackToAboutQusasa	クサーサについてに戻る	返回关于库萨萨	Retour à la page À propos
+UiShareYourIdea	ご意見をお聞かせください	分享您的想法	Partagez votre idée
+UiSuggestion	提案	建议	Suggestion
+UiRequestAFeature	機能のリクエスト	功能请求	Demande de fonctionnalité
+UiImproveAFeature	機能の改善	功能改进	Amélioration
+UiWhatWouldYouLikeToAddOr	追加や改善してほしいことは何ですか？	您希望添加或改进什么？	Que souhaitez-vous ajouter ou améliorer ?
+UiSuggestionDetails	提案の詳細	建议详情	Détails
+UiOpenEmailDraft	メールの下書きを開く	打开邮件草稿	Ouvrir le brouillon
+UiVersion	バージョン 	版本 	Version 
+UiTheImageExceedsTheSupportedSize	画像がサイズの上限を超えています。	图片超出支持的大小。	L’image dépasse la taille autorisée.
+UiTheSelectionShortcutIsInUseBy	選択のショートカットは別のアプリで使用中です。	选区快捷键已被其他应用占用。	Le raccourci de sélection est déjà utilisé.
+UiOpenShortcutUnavailable	起動ショートカットを使用できません	打开快捷键不可用	Raccourci d’ouverture indisponible
+UiPauseMonitoring	監視を一時停止	暂停监控	Suspendre la surveillance
+UiQuitQusasa	クサーサを終了	退出库萨萨	Quitter Qusasa
+UiUnsavedChanges	未保存の変更	未保存的修改	Modifications non enregistrées
+UiClosingTheAppWillDiscardYourCurrent	終了すると現在の変更は失われます。	退出后会丢失当前修改。	Quitter effacera les modifications en cours.
+UiQuitApp	アプリを終了	退出应用	Quitter
+UiCouldNotSaveThisChangeOnThis	変更を端末に保存できませんでした。	无法在本机保存此修改。	Impossible d’enregistrer la modification.
+UiImageSavedToClipboardHistory	画像を履歴に保存しました。	图片已保存到剪贴板历史。	Image enregistrée dans l’historique.
+UiTextClipSavedToClipboardHistory	テキストを履歴に保存しました。	文本已保存到剪贴板历史。	Texte enregistré dans l’historique.
+UiHistoryIsFullUnpinSomeClipsTo	履歴がいっぱいです。残す項目を書き出し、不要な項目を削除してください。	历史记录已满。请导出要保留的条目并删除不再需要的条目。	L’historique est plein. Exportez les éléments à conserver, puis supprimez les autres.
+UiOf	 / 	 / 	 sur 
+UiNoMatches	一致する項目がありません	没有匹配结果	Aucun résultat
+UiNoTextClips	テキストがありません	没有文本条目	Aucun texte
+UiNoPinnedClips	ピン留めがありません	没有已固定条目	Aucun élément épinglé
+UiNoLinks	リンクがありません	没有链接	Aucun lien
+UiNoImages	画像がありません	没有图片	Aucune image
+UiTryAnotherWordOrChangeTheFilter	検索語またはフィルターを変更してください。	请尝试其他关键词或调整筛选条件。	Essayez un autre terme ou modifiez le filtre.
+UiPinClipsYouUseFrequently	よく使うクリップをピン留めできます。	固定常用条目。	Épinglez les éléments que vous utilisez souvent.
+UiWebAddressesYouCopyAppearHere	コピーした Web アドレスがここに表示されます。	已复制的网址会显示在这里。	Les adresses Web copiées apparaissent ici.
+UiCopyAnImageOrTakeAScreenshot	画像をコピーするか画面をキャプチャしてください。	复制图片或进行截图即可在此查看。	Copiez une image ou faites une capture d’écran.
+UiCopyTextOrAnImageFromAny	コピーしたテキストや画像がここに表示されます。	从任意应用复制的文本和图片会显示在此处。	Copiez un texte ou une image pour le voir ici.
+UiTurnOnMonitoringOrAddAClip	監視を開始するか手動でクリップを追加してください。	请启动监控或手动添加条目。	Activez la surveillance ou ajoutez un élément.
+UiFullTextOrImage	全文または画像	完整文本或图片	Texte ou image intégrale
+UiUnpinClip	ピン留めを外す	取消固定	Désépingler
+UiCharacters	 文字	 个字符	 caractères
+UiEditClip	クリップを編集	编辑条目	Modifier l’élément
+UiEnterTheTextYouWantToSave	保存するテキストを入力	输入要保存的文本	Saisissez le texte à enregistrer
+UiClipSaved	クリップを保存しました。	条目已保存。	Élément enregistré.
+UiCancelEditing	編集を中止	取消编辑	Annuler la modification
+UiYourUnsavedChangesWillBeLost	未保存の変更は失われます。	未保存的修改将丢失。	Les modifications seront perdues.
+UiDiscardChanges	変更を破棄	放弃修改	Ignorer les modifications
+UiClipCopiedToClipboard	クリップをコピーしました。	条目已复制到剪贴板。	Élément copié.
+UiImageCopiedToClipboard	画像をコピーしました。	图片已复制到剪贴板。	Image copiée.
+UiTextCopiedToClipboard	テキストをコピーしました。	文本已复制到剪贴板。	Texte copié.
+UiClipboardIsBusyTryCopyingAgain	クリップボードを使用中です。再試行してください。	剪贴板正忙，请重试。	Le presse-papiers est occupé. Réessayez.
+UiClipUnpinned	ピン留めを外しました。	已取消固定。	Élément désépinglé.
+UiClipPinned	ピン留めしました。	条目已固定。	Élément épinglé.
+UiDeleteClip	クリップを削除しますか？	删除此条目？	Supprimer cet élément ?
+UiThisClipWillBeRemovedFromClipboard	このクリップは履歴から削除されます。	此条目将从历史记录中删除。	Cet élément sera retiré de l’historique.
+UiDeleteClipLabel	クリップを削除	删除条目	Supprimer l’élément
+UiClipDeleted	クリップを削除しました。	条目已删除。	Élément supprimé.
+UiCouldNotOpenTheDraftCheckYour	下書きを開けません。既定のメールアプリを確認してください。	无法打开草稿。请检查默认邮件应用。	Impossible d’ouvrir le brouillon. Vérifiez votre application de messagerie.
+UiCouldNotOpenTheLinkCheckYour	リンクを開けません。既定のアプリを確認してください。	无法打开链接。请检查默认应用。	Impossible d’ouvrir le lien. Vérifiez vos applications par défaut.
+UiMonitoringUnavailable	監視できません	监控不可用	Surveillance indisponible
+UiMonitoringPaused	監視を停止中	监控已暂停	Surveillance suspendue
+UiStartMonitoring	監視を開始	启动监控	Démarrer la surveillance
+UiImportFontLabel	フォントをインポート	导入字体	Importer une police
+UiCouldNotImportTheFont	フォントを読み込めませんでした。	无法导入字体。	Impossible d’importer la police.
+UiCouldNotCopyTheSelectedArea	選択範囲をコピーできませんでした。	无法复制所选区域。	Impossible de copier la zone sélectionnée.
+UiCouldNotChangeTheWindowsStartupSetting	Windows の起動設定を変更できませんでした。	无法修改 Windows 启动设置。	Impossible de modifier le démarrage avec Windows.
+UiClearUnpinnedClips	ピン留め以外を削除しますか？	清除未固定的条目？	Effacer les éléments non épinglés ?
+UiPinnedClipsWillStayInYourHistory	ピン留め済みのクリップは履歴に残ります。	已固定条目将保留在历史记录中。	Les éléments épinglés resteront dans l’historique.
+UiClearHistory	履歴を消去	清除历史	Effacer l’historique
+UiUnpinnedClipsCleared	ピン留め以外を削除しました。	未固定条目已清除。	Éléments non épinglés effacés.
+UiExportClipboardHistory	履歴を書き出す	导出剪贴板历史	Exporter l’historique
+UiQusasaArchiveJsonJson	暗号化履歴 (*.qusasa)|*.qusasa	加密历史记录 (*.qusasa)|*.qusasa	Historique chiffré (*.qusasa)|*.qusasa
+UiClipboardHistoryExported	履歴を書き出しました。	已导出剪贴板历史。	Historique exporté.
+UiCouldNotExportHistoryToThisFile	このファイルに書き出せませんでした。	无法将历史导出到此文件。	Impossible d’exporter vers ce fichier.
+UiImportClips	クリップを読み込む	导入剪贴条目	Importer des éléments
+UiSupportedFilesJsonTxtJsonTxtQusasa	対応ファイル (*.qusasa;*.json;*.txt)|*.qusasa;*.json;*.txt	支持的文件 (*.qusasa;*.json;*.txt)|*.qusasa;*.json;*.txt	Fichiers pris en charge (*.qusasa;*.json;*.txt)|*.qusasa;*.json;*.txt
+UiChooseATxtFileContainingUpTo	50 万文字以下の TXT ファイルを選択してください。	请选择不超过 50 万字符的 TXT 文件。	Choisissez un fichier TXT de 500 000 caractères maximum.
+UiClipsImported	クリップを読み込みました。	条目已导入。	Éléments importés.
+UiCouldNotReadTheFileChooseA	開けません。有効なアーカイブまたは Unicode TXT を選択してください。	无法读取文件。请选择有效存档或 Unicode TXT 文件。	Lecture impossible. Choisissez une archive valide ou un fichier TXT Unicode.
+UiThereIsNotEnoughSpaceToMerge	容量が不足しています。一部の項目を削除して再試行してください。	空间不足。请删除部分条目后重试。	Espace insuffisant. Supprimez des éléments puis réessayez.
+UiCouldNotSaveTheImportedHistory	読み込んだ履歴を保存できませんでした。	无法保存导入的历史。	Impossible d’enregistrer l’historique importé.
+UiCouldNotCompleteTheAction	操作を完了できませんでした	无法完成操作	Impossible de terminer l’action
+UiCouldNotReadThePreviousHistoryMonitoring	履歴を読み込めないため、監視を停止しました。	无法读取原有历史，监控已暂停。	L’historique est illisible. La surveillance a été suspendue.
+UiCouldNotSaveHistoryTryAgain	履歴を保存できませんでした。再試行してください。	无法保存历史，请重试。	Impossible d’enregistrer l’historique. Réessayez.
+UiOk	OK	确定	OK
+UiHeadingFont	見出しのフォント	标题字体	Police des titres
+UiHistoryDay	履歴の日付	历史日期	Date de l’historique
+UiAllDays	すべての日付	所有日期	Toutes les dates
+UiExportDay	その日の履歴を書き出す	导出当日记录	Exporter la journée
+UiMidnight	ミッドナイトブルー	午夜蓝	Bleu nuit
+UiMint	ミント	薄荷绿	Vert menthe
+UiScanner	文字認識	文字识别	Reconnaissance de texte
+UiScanImage	画像から文字を抽出	从图片提取文本	Extraire le texte de l’image
+UiScannedText	認識したテキスト	识别结果	Texte reconnu
+UiScanning	端末で文字を認識しています…	正在本机识别文本…	Reconnaissance sur votre appareil…
+UiScanEmpty	読み取れる文字がありません。	未找到可识别的文字。	Aucun texte lisible n’a été détecté.
+UiReviewScan	コピーや保存の前に認識結果を確認、編集できます。	复制或保存前可检查并编辑识别结果。	Vérifiez et corrigez le texte avant de le copier ou de l’enregistrer.
+UiScanFailed	この画像から文字を抽出できませんでした。	无法从此图片提取文本。	Impossible d’extraire le texte de cette image.
+UiScanSaved	テキストを履歴に保存しました。	文本已保存到历史。	Texte enregistré dans l’historique.
+UiClipboardCopyFailed	クリップボードにコピーできませんでした。	无法复制到剪贴板。	Impossible de copier dans le presse-papiers.
+UiQusasa	クサーサ	库萨萨	Qusasa
+UiQusasaLabel	クサーサ · 	库萨萨 · 	Qusasa · 
+UiDeveloperName	サラーフッディーン・アッ＝ドルービー	萨拉赫丁·德鲁比	Salah Al-Din Al-Droubi
+UiReleaseNote0	暗号化された履歴	加密剪贴板历史	Historique chiffré
+UiReleaseNote1	同じ Windows アカウントで .qusasa を保存して読み込めます。	导出 .qusasa 文件并在同一 Windows 帐户导入。	Exportez une archive .qusasa puis importez-la avec le même compte Windows.
+UiReleaseNote2	ローカルとクラウドの文字認識	本地和云端文字识别	OCR local et dans le cloud
+UiReleaseNote3	クラウド OCR は選択した画像を中継サーバー経由で OCR.space に送信します。	云端识别将所选图片经中继转发到 OCR.space。	Le mode cloud transmet la zone sélectionnée à OCR.space par le relais.
+UiReleaseNote4	連絡先アイコンの順序	统一联系图标顺序	Ordre des icônes de contact
+UiReleaseNote5	提案画面と連絡先でアイコンの順序をそろえました。	反馈与联系渠道采用相同顺序。	Les canaux de suggestion suivent le même ordre que les contacts.
+UiMoveTools	ドラッグしてツールバーを移動	拖动以移动工具栏	Faites glisser pour déplacer la barre d’outils
+UiRectangle	四角形	矩形	Rectangle
+UiEllipse	楕円	椭圆	Ellipse
+UiArrow	矢印	箭头	Flèche
+UiPen	ペン	画笔	Stylo
+UiRedact	マスク	遮盖	Masquer
+UiAddText	テキストを追加	添加文本	Ajouter du texte
+UiUndo	元に戻す (Ctrl+Z)	撤销 (Ctrl+Z)	Annuler (Ctrl+Z)
+UiReselect	選択し直す	重新选择	Resélectionner
+UiExportPng	PNG を書き出す	导出 PNG	Exporter en PNG
+UiCancelCapture	キャンセル (Esc)	取消 (Esc)	Annuler (Échap)
+UiAcceptCapture	保存してコピー (Enter)	保存并复制 (Enter)	Enregistrer et copier (Entrée)
+UiColorWheel	カラーホイール	色轮	Roue chromatique
+UiBrightness	明るさ	亮度	Luminosité
+UiApplyColor	色を適用	应用颜色	Appliquer la couleur
+UiStrokeWidth	線の太さ	线宽	Épaisseur
+UiAnnotation	注釈テキスト	标注文本	Texte de l’annotation
+UiExportImageFailed	画像を保存できませんでした。	无法保存图片。	Impossible d’enregistrer l’image.
+UiLinkSaved	リンクを履歴に保存しました。	链接已保存到剪贴板历史。	Lien enregistré dans l’historique.
+UiPathSaved	パスを履歴に保存しました。	路径已保存到剪贴板历史。	Chemin enregistré dans l’historique.
+UiLinkCopied	リンクをコピーしました。	链接已复制到剪贴板。	Lien copié.
+UiPathCopied	パスをコピーしました。	路径已复制到剪贴板。	Chemin copié.
+UiGlass	ガラス効果	玻璃效果	Effet verre
+UiGlassHelp	現在のテーマ色を使った半透明の表示にします。	使用当前主题色呈现半透明面板。	Applique des surfaces translucides aux couleurs du thème actuel.
+UiOcean	深海	深海蓝	Océan profond
+UiRose	ローズ	柔玫瑰	Rose doux
+UiForest	緑の森	森林绿	Forêt verte
+UiAllRightsReserved	無断転載禁止	保留所有权利	Tous droits réservés
+UiAdvanced	詳細設定	高级	Avancé
+UiTranslate	翻訳	翻译	Traduire
+UiInstantTranslation	即時翻訳	即时翻译	Traduction instantanée
+UiComingSoon	近日公開	即将推出	Bientôt disponible
+UiLocalScan	ローカル	本地	Local
+UiCloudScan	クラウド	云端	Cloud
+UiHistorySize	履歴のサイズ: {0}	历史记录大小：{0}	Taille de l’historique : {0}
+UiClearClipCount	削除する項目数: {0}	将清除的剪贴项：{0}	Éléments à effacer : {0}
+UiHistoryUnitStyle	履歴サイズの単位	历史记录大小单位	Unité de taille de l’historique
+UiFullUnits	正式名称	完整名称	Noms complets
+UiShortUnits	略称	缩写	Abréviations
+UiByte	バイト	字节	octets
+UiKilobyte	キロバイト	千字节	kilooctets
+UiMegabyte	メガバイト	兆字节	mégaoctets
+UiArabicLanguage	アラビア語	阿拉伯语	Arabe
+UiEnglishLanguage	英語	英语	Anglais
+UiJapaneseLanguage	日本語	日语	Japonais
+UiChineseLanguage	簡体字中国語	简体中文	Chinois simplifié
+UiFrenchLanguage	フランス語	法语	Français
+UiSpanishLanguage	スペイン語	西班牙语	Espagnol
+UiQusasaUpdates	Qusasa の更新	Qusasa 更新	Mises à jour de Qusasa
+UiUpdateCurrent	Qusasa は最新バージョンです。	你正在使用最新版本的 Qusasa。	Qusasa est à jour.
+UiCheckUpdates	更新を確認	检查更新	Rechercher des mises à jour
+UiUpdateChecking	更新を確認しています…	正在检查更新…	Recherche de mises à jour…
+UiUpdateAvailable	Qusasa の更新があります。	Qusasa 有可用更新。	Une mise à jour de Qusasa est disponible.
+UiUpdateDownload	更新をダウンロード	下载更新	Télécharger la mise à jour
+UiUpdateInstall	更新をインストール	安装更新	Installer la mise à jour
+UiUpdateLater	後で	稍后	Plus tard
+UiUpdateReady	ダウンロードが完了しました。	下载完成，可以安装更新。	Téléchargement terminé. La mise à jour peut être installée.
+UiMultiPlatform	マルチプラットフォーム	多平台	Multiplateforme

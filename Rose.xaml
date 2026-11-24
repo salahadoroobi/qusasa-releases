@@ -1,0 +1,23 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <SolidColorBrush x:Key="Frame" Color="#FCF2F4" />
+    <SolidColorBrush x:Key="Panel" Color="#FFF9FA" />
+    <SolidColorBrush x:Key="Elevated" Color="#F4E4EA" />
+    <SolidColorBrush x:Key="Input" Color="#FCF2F5" />
+    <SolidColorBrush x:Key="Hover" Color="#EEDCE3" />
+    <SolidColorBrush x:Key="Pressed" Color="#E5CCD8" />
+    <SolidColorBrush x:Key="Line" Color="#CBAEBC" />
+    <SolidColorBrush x:Key="QuietLine" Color="#E9D8E1" />
+    <SolidColorBrush x:Key="Text" Color="#38232D" />
+    <SolidColorBrush x:Key="Secondary" Color="#664956" />
+    <SolidColorBrush x:Key="Muted" Color="#785563" />
+    <SolidColorBrush x:Key="Accent" Color="#8C365E" />
+    <SolidColorBrush x:Key="AccentInk" Color="#FFF7FC" />
+    <SolidColorBrush x:Key="Tint" Color="#F2D9E5" />
+    <SolidColorBrush x:Key="Signal" Color="#276249" />
+    <SolidColorBrush x:Key="Danger" Color="#A73247" />
+    <SolidColorBrush x:Key="DangerInk" Color="#FFFFFF" />
+    <SolidColorBrush x:Key="DangerTint" Color="#F9DDE4" />
+    <SolidColorBrush x:Key="WindowHover" Color="#B3425A" />
+    <SolidColorBrush x:Key="Scrim" Color="#882B1620" />
+</ResourceDictionary>

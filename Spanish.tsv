@@ -1,0 +1,270 @@
+UiIncludeDiagnostics	Incluir diagnósticos en el informe
+UiReviewDiagnostics	Revisar diagnósticos
+UiDescribeCrash	Qusasa se cerró inesperadamente. Describe qué estabas haciendo.
+UiCrashReport	Informe de error
+UiCrashAgain	Qusasa se cerró inesperadamente. Ábrelo de nuevo para revisar y enviar un informe.
+UiGitHubPaste	Informe copiado. Pégalo en un mensaje al desarrollador en GitHub.
+UiMoveTools	Arrastra para mover la barra de herramientas
+UiRectangle	Rectángulo
+UiEllipse	Elipse
+UiArrow	Flecha
+UiPen	Lápiz
+UiRedact	Ocultar datos
+UiAddText	Añadir texto
+UiUndo	Deshacer (Ctrl+Z)
+UiReselect	Volver a seleccionar
+UiExportPng	Exportar PNG
+UiCancelCapture	Cancelar (Esc)
+UiAcceptCapture	Guardar y copiar (Intro)
+UiColorWheel	Rueda de color
+UiBrightness	Brillo
+UiApplyColor	Aplicar color
+UiStrokeWidth	Grosor del trazo
+UiAnnotation	Texto de la anotación
+UiExportImageFailed	No se pudo guardar la imagen.
+UiLinkSaved	Enlace guardado en el historial.
+UiPathSaved	Ruta guardada en el historial.
+UiLinkCopied	Enlace copiado al portapapeles.
+UiPathCopied	Ruta copiada al portapapeles.
+UiGlass	Cristal
+UiGlassHelp	Superficies translúcidas con los colores del tema actual.
+UiOcean	Océano profundo
+UiRose	Rosa suave
+UiForest	Bosque verde
+UiAllRightsReserved	Todos los derechos reservados
+UiClose	Cerrar
+UiImage	Imagen
+UiLink	Enlace
+UiText	Texto
+UiImageLabel	Imagen 
+UiQusasaNotification	Notificación de Qusasa
+UiQusasa	Qusasa
+UiDismissNotification	Descartar notificación
+UiCopiedImageThumbnail	Miniatura de la imagen copiada
+UiOpenClip	Abrir recorte
+UiMinimize	Minimizar
+UiMaximizeOrRestore	Maximizar o restaurar
+UiCloseWindow	Cerrar ventana
+UiClipboardHistory	Historial del portapapeles
+UiSearchTheTextAndImagesYouCopied	Busca textos e imágenes copiados y recupéralos con un clic.
+UiToggleClipboardMonitoring	Activar o desactivar la supervisión del portapapeles
+UiMonitoringOn	Supervisión activa
+UiSettings	Configuración
+UiNewClip	Nuevo recorte
+UiNewClipCtrlN	Nuevo recorte · Ctrl+N
+UiSearchClips	Buscar recortes
+UiSearchClipsLabel	Buscar recortes…
+UiAll	Todos
+UiPinned	Anclados
+UiTextLabel	Textos
+UiLinks	Enlaces
+UiImages	Imágenes
+UiClipList	Lista de recortes
+UiPinnedLabel	Anclado
+UiYourHistoryIsEmpty	El historial está vacío
+UiCopyTextFromAnyAppToSee	Copia texto desde cualquier aplicación para verlo aquí.
+UiClipPreview	Vista previa
+UiFullText	Texto completo
+UiPinClip	Anclar recorte
+UiEdit	Editar
+UiDelete	Eliminar
+UiClipContent	Contenido del recorte
+UiImagePreview	Vista previa de imagen
+UiUnableToDisplayImage	No se puede mostrar la imagen.
+UiSelectAClipToPreview	Selecciona un recorte para previsualizarlo
+UiCancel	Cancelar
+UiSaveClip	Guardar recorte
+UiCopyToClipboardCtrlEnter	Copiar al portapapeles · Ctrl+Intro
+UiCopyToClipboard	Copiar al portapapeles
+UiHistoryIsEncryptedAndStoredLocally	Historial cifrado y guardado localmente
+UiOpenQusasa	Abrir Qusasa
+UiCloseSettings	Cerrar configuración
+UiAppearance	Apariencia
+UiTheme	Tema
+UiAutomatic	Automático
+UiDark	Oscuro
+UiLight	Claro
+UiClipFont	Fuente de los recortes
+UiImportFont	Importar fuente…
+UiClipTextSize	Tamaño del texto de los recortes
+UiSmall	Pequeño
+UiMedium	Mediano
+UiLarge	Grande
+UiHeadingSize	Tamaño de los títulos
+UiLanguage	Idioma
+UiNotifications	Notificaciones
+UiDesktopNotifications	Notificaciones de escritorio
+UiShowClipContentInNotifications	Mostrar el contenido del recorte en las notificaciones
+UiPlayASoundWhenCopying	Reproducir un sonido al copiar
+UiSystem	Sistema
+UiKeepRecordingWhenTheWindowCloses	Seguir supervisando al cerrar la ventana
+UiStartWithWindows	Iniciar con Windows
+UiExperimentalFeatures	Funciones experimentales
+UiPaths	Rutas
+UiFilePath	Ruta
+UiNoPaths	No hay rutas
+UiPathsEmpty	Aquí aparecen las rutas de archivos y carpetas copiadas.
+UiIris	Violeta tinta
+UiSand	Arena cálida
+UiCaptureHelp	Selecciona una ventana o arrastra sobre un área para capturarla y anotarla.
+UiScannerHelp	Selecciona un área para extraer texto. Los modos automático y en la nube pueden enviar la imagen al servicio en línea.
+UiScannerHotkeyBusy	Otra aplicación está usando el atajo del escáner.
+UiScreenScanFailed	No se pudo escanear el área seleccionada.
+UiScreenCapture	Captura
+UiHistoryAndBackups	Historial y copias de seguridad
+UiImportAJsonArchiveOrATxt	La exportación .qusasa se cifra para esta cuenta de Windows. Puedes importar archivos JSON antiguos y archivos TXT.
+UiImport	Importar…
+UiExport	Exportar…
+UiClearUnpinned	Borrar no anclados
+UiAboutQusasa	Acerca de Qusasa
+UiSeeWhatSNewInThisRelease	Ver las novedades de esta versión
+UiDeveloper	Desarrollador
+UiDeveloperName	Salah Al-Din Al-Droubi
+UiContact	Contacto
+UiWhatsapp	WhatsApp
+UiTelegram	Telegram
+UiEmail	Correo electrónico
+UiSendASuggestion	Enviar una sugerencia
+UiBack	Volver
+Ui2026AllRightsReserved	© 2026 · Todos los derechos reservados.
+UiWhatSNew	Novedades
+UiBackToAboutQusasa	Volver a Acerca de Qusasa
+UiShareYourIdea	Comparte tu idea
+UiSuggestion	Sugerencia
+UiRequestAFeature	Solicitar una función
+UiImproveAFeature	Mejorar una función
+UiWhatWouldYouLikeToAddOr	¿Qué te gustaría añadir o mejorar?
+UiSuggestionDetails	Detalles de la sugerencia
+UiOpenEmailDraft	Abrir borrador de correo
+UiVersion	Versión 
+UiTheImageExceedsTheSupportedSize	La imagen supera el tamaño admitido.
+UiTheSelectionShortcutIsInUseBy	Otra aplicación está usando el atajo de selección.
+UiOpenShortcutUnavailable	Atajo de apertura no disponible
+UiPauseMonitoring	Pausar supervisión
+UiQuitQusasa	Salir de Qusasa
+UiUnsavedChanges	Cambios sin guardar
+UiClosingTheAppWillDiscardYourCurrent	Al cerrar la aplicación se descartarán los cambios actuales.
+UiQuitApp	Salir de la aplicación
+UiCouldNotSaveThisChangeOnThis	No se pudo guardar el cambio en este dispositivo.
+UiImageSavedToClipboardHistory	Imagen guardada en el historial.
+UiTextClipSavedToClipboardHistory	Texto guardado en el historial.
+UiHistoryIsFullUnpinSomeClipsTo	El historial está lleno. Exporta los recortes que quieras conservar y elimina los que ya no necesites.
+UiOf	 de 
+UiNoMatches	No hay coincidencias
+UiNoTextClips	No hay textos
+UiNoPinnedClips	No hay recortes anclados
+UiNoLinks	No hay enlaces
+UiNoImages	No hay imágenes
+UiTryAnotherWordOrChangeTheFilter	Prueba otra palabra o cambia el filtro.
+UiPinClipsYouUseFrequently	Ancla los recortes que uses con frecuencia.
+UiWebAddressesYouCopyAppearHere	Aquí aparecen las direcciones web copiadas.
+UiCopyAnImageOrTakeAScreenshot	Copia una imagen o haz una captura para verla aquí.
+UiCopyTextOrAnImageFromAny	Copia texto o una imagen de cualquier aplicación para verlo aquí.
+UiTurnOnMonitoringOrAddAClip	Activa la supervisión o añade un recorte manualmente.
+UiFullTextOrImage	Texto completo o imagen
+UiUnpinClip	Desanclar recorte
+UiCharacters	 caracteres
+UiEditClip	Editar recorte
+UiEnterTheTextYouWantToSave	Escribe el texto que quieres guardar
+UiClipSaved	Recorte guardado.
+UiCancelEditing	Cancelar edición
+UiYourUnsavedChangesWillBeLost	Se perderán los cambios sin guardar.
+UiDiscardChanges	Descartar cambios
+UiClipCopiedToClipboard	Recorte copiado al portapapeles.
+UiImageCopiedToClipboard	Imagen copiada al portapapeles.
+UiTextCopiedToClipboard	Texto copiado al portapapeles.
+UiClipboardIsBusyTryCopyingAgain	El portapapeles está ocupado. Intenta copiar de nuevo.
+UiClipUnpinned	Recorte desanclado.
+UiClipPinned	Recorte anclado.
+UiDeleteClip	¿Eliminar el recorte?
+UiThisClipWillBeRemovedFromClipboard	El recorte se eliminará del historial.
+UiDeleteClipLabel	Eliminar recorte
+UiClipDeleted	Recorte eliminado.
+UiCouldNotOpenTheDraftCheckYour	No se pudo abrir el borrador. Revisa tu aplicación de correo predeterminada.
+UiQusasaLabel	Qusasa · 
+UiCouldNotOpenTheLinkCheckYour	No se pudo abrir el enlace. Revisa tus aplicaciones predeterminadas.
+UiMonitoringUnavailable	Supervisión no disponible
+UiMonitoringPaused	Supervisión pausada
+UiStartMonitoring	Iniciar supervisión
+UiImportFontLabel	Importar fuente
+UiCouldNotImportTheFont	No se pudo importar la fuente.
+UiCouldNotCopyTheSelectedArea	No se pudo copiar el área seleccionada.
+UiCouldNotChangeTheWindowsStartupSetting	No se pudo cambiar la configuración de inicio con Windows.
+UiClearUnpinnedClips	¿Borrar los recortes no anclados?
+UiPinnedClipsWillStayInYourHistory	Los recortes anclados permanecerán en el historial.
+UiClearHistory	Borrar historial
+UiUnpinnedClipsCleared	Se borraron los recortes no anclados.
+UiExportClipboardHistory	Exportar historial
+UiQusasaArchiveJsonJson	Historial cifrado de Qusasa (*.qusasa)|*.qusasa
+UiClipboardHistoryExported	Historial exportado.
+UiCouldNotExportHistoryToThisFile	No se pudo exportar el historial a este archivo.
+UiImportClips	Importar recortes
+UiSupportedFilesJsonTxtJsonTxtQusasa	Archivos compatibles (*.qusasa;*.json;*.txt)|*.qusasa;*.json;*.txt|Historial cifrado (*.qusasa)|*.qusasa|Archivo antiguo (*.json)|*.json|Archivo de texto (*.txt)|*.txt
+UiChooseATxtFileContainingUpTo	Elige un archivo TXT de hasta 500 000 caracteres.
+UiClipsImported	Recortes importados.
+UiCouldNotReadTheFileChooseA	No se pudo leer el archivo. Elige un archivo válido de Qusasa o un TXT en Unicode.
+UiThereIsNotEnoughSpaceToMerge	No hay espacio suficiente para combinar este archivo. Borra algunos recortes e inténtalo de nuevo.
+UiCouldNotSaveTheImportedHistory	No se pudo guardar el historial importado.
+UiCouldNotCompleteTheAction	No se pudo completar la acción
+UiCouldNotReadThePreviousHistoryMonitoring	No se pudo leer el historial anterior. Se pausó la supervisión.
+UiCouldNotSaveHistoryTryAgain	No se pudo guardar el historial. Inténtalo de nuevo.
+UiOk	Aceptar
+UiHeadingFont	Fuente de los títulos
+UiHistoryDay	Fecha del historial
+UiAllDays	Todos los días
+UiExportDay	Exportar día
+UiMidnight	Azul medianoche
+UiMint	Menta suave
+UiScanner	Escáner de texto
+UiScanImage	Extraer texto de la imagen
+UiScannedText	Texto reconocido
+UiScanning	Reconociendo texto en tu dispositivo…
+UiScanEmpty	No se encontró texto legible.
+UiReviewScan	Revisa y edita el texto reconocido antes de copiarlo o guardarlo.
+UiScanFailed	No se pudo extraer texto de esta imagen.
+UiScanSaved	Texto guardado en el historial.
+UiClipboardCopyFailed	No se pudo copiar al portapapeles.
+UiAdvanced	Avanzado
+UiHistorySize	Tamaño del historial: {0}
+UiHistoryUnitStyle	Unidades del tamaño del historial
+UiFullUnits	Nombres completos
+UiShortUnits	Abreviaturas
+UiByte	bytes
+UiKilobyte	kilobytes
+UiMegabyte	megabytes
+UiClearClipCount	Recortes que se borrarán: {0}
+UiLocalScan	Local
+UiCloudScan	En la nube
+UiInstantTranslation	Traducción instantánea
+UiComingSoon	Próximamente
+UiTranslate	Traducir
+UiReleaseNote0	Historial cifrado
+UiReleaseNote1	Exporta un archivo .qusasa e impórtalo desde la misma cuenta de Windows.
+UiReleaseNote2	OCR local y en la nube
+UiReleaseNote3	El OCR en la nube envía la imagen seleccionada a OCR.space a través del servidor de Qusasa.
+UiReleaseNote4	Orden de los iconos de contacto
+UiReleaseNote5	Los canales de sugerencias siguen el mismo orden que los contactos.
+UiQusasaUpdates	Actualizaciones de Qusasa
+UiManualUpdates	Manual
+UiCheckUpdates	Buscar actualizaciones
+UiUpdateUnconfigured	El canal de actualizaciones no está configurado en esta versión.
+UiUpdateOffline	Conéctate a Internet para buscar actualizaciones.
+UiUpdateCurrent	Qusasa está actualizado.
+UiUpdateCheckFailed	No se pudo verificar la actualización.
+UiUpdateAvailable	Hay una actualización de Qusasa disponible.
+UiUpdateBackground	Continuar en segundo plano
+UiUpdateLater	Más tarde
+UiUpdateInstall	Instalar actualización
+UiUpdateDownload	Descargar actualización
+UiUpdateChecking	Buscando actualizaciones…
+UiUpdatePercent	Descargando actualización: {0}%
+UiUpdateReady	Descarga completa. La actualización está lista para instalar.
+UiUpdateInstallFailed	No se pudo abrir el instalador. Descarga de nuevo la actualización.
+UiUpdateDownloadFailed	No se pudo descargar la actualización. Inténtalo de nuevo.
+UiArabicLanguage	Árabe
+UiEnglishLanguage	Inglés
+UiJapaneseLanguage	Japonés
+UiChineseLanguage	Chino simplificado
+UiFrenchLanguage	Francés
+UiSpanishLanguage	Español
+UiMultiPlatform	Multiplataforma

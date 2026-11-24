@@ -1,0 +1,63 @@
+{
+  "version": "1.29.0",
+  "ar": [
+    {
+      "title": "نافذة المسح الضوئي المنفصلة",
+      "detail": "أصبح المسح الضوئي يفتح في نافذة مستقلة بدلاً من تداخل الواجهة، مع إزالة زر الرجوع."
+    },
+    {
+      "title": "أيقونات الأنظمة في المثبّت",
+      "detail": "يعرض المثبّت شعار ويندوز، ومعاينة لأيقونات الماك ولينكس وأندرويد وآيفون تحت عنوان قريبًا."
+    }
+  ],
+  "en": [
+    {
+      "title": "Separate scanner window",
+      "detail": "The scanner now opens in a standalone window instead of an overlay, with the back button removed."
+    },
+    {
+      "title": "Platform icons in Setup",
+      "detail": "The installer shows the Windows logo and a coming-soon preview for macOS, Linux, Android, and iPhone."
+    }
+  ],
+  "ja": [
+    {
+      "title": "独立したスキャナウィンドウ",
+      "detail": "スキャナがオーバーレイではなく独立したウィンドウで開くようになり、「戻る」ボタンが削除されました。"
+    },
+    {
+      "title": "インストーラーにプラットフォームのアイコンを追加",
+      "detail": "Windows のロゴと、近日公開予定の macOS、Linux、Android、iPhone のアイコンを表示します。"
+    }
+  ],
+  "zh": [
+    {
+      "title": "独立扫描窗口",
+      "detail": "扫描器现在在独立窗口中打开，而不是覆盖层，并移除了返回按钮。"
+    },
+    {
+      "title": "安装程序中的平台图标",
+      "detail": "安装程序显示 Windows 标志，以及即将推出的 macOS、Linux、Android 和 iPhone 图标。"
+    }
+  ],
+  "fr": [
+    {
+      "title": "Fenêtre de numérisation séparée",
+      "detail": "Le scanner s'ouvre maintenant dans une fenêtre autonome au lieu d'une superposition, avec le bouton retour supprimé."
+    },
+    {
+      "title": "Icônes des plateformes dans le programme d'installation",
+      "detail": "Le logo Windows s'affiche avec les icônes des plateformes à venir : macOS, Linux, Android et iPhone."
+    }
+  ],
+  "es": [
+    {
+      "title": "Ventana de escaneo separada",
+      "detail": "El escáner ahora se abre en una ventana independiente en lugar de una superposición, con el botón atrás eliminado."
+    },
+    {
+      "title": "Iconos de plataformas en el instalador",
+      "detail": "El instalador muestra el logo de Windows y un adelanto de macOS, Linux, Android y iPhone."
+    }
+  ]
+}
